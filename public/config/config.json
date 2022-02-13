@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD2323C3d828A8EC2731B8b1C195a352E9F77e0Ca",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xd2323c3d828a8ec2731b8b1c195a352e9f77e0ca",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "ExChain NFT",
+  "SYMBOL": "EXC",
+  "MAX_SUPPLY": 11,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/exchain-nft-v2",
+  "SHOW_BACKGROUND": true
+}
